@@ -8,17 +8,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const mindarThree = new window.MINDAR.IMAGE.MindARThree({
       container: document.body,
-      imageTargetSrc: '/static/assets/targets/target_uni.mind',
+      imageTargetSrc: '/static/assets/targets/facultad_de_ciencias_letras.mind',
     });
     const {renderer, scene, camera} = mindarThree;
 
     const light = new THREE.HemisphereLight( 0xffffff, 0xbbbbff, 1 );
     scene.add(light);
     //
-    const raccoon = await loadGLTF('/static/assets/models/model2/scene.gltf');
+    const raccoon = await loadGLTF('/static/assets/models/scientist/scene.gltf');
     //const raccoon = await loadGLTF('/static/assets/models/upch-dia/images (1).gltf');
     //                      X     Y    Z
-    raccoon.scene.scale.set(0.9, 0.9, 0.9);
+    raccoon.scene.scale.set(0.1, 0.1, 0.1);
     //                         X    Y   Z
     raccoon.scene.position.set(0, 0, 0);
 
