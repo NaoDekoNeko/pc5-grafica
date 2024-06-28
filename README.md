@@ -2,6 +2,6 @@
 
 ## Integrantes
 
-Chandler Perez Cueva
-Daniel Malvaceda Canales
-Ademar Fatama Ruiz
+- Chandler Perez Cueva
+- Daniel Malvaceda Canales
+- Ademar Fatama Ruiz
