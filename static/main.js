@@ -9,8 +9,11 @@ document.addEventListener('DOMContentLoaded', () => {
       { src: '/static/assets/targets/target_uni.mind', model: '/static/assets/models/model2/scene.gltf', scale: { x: 0.9, y: 0.9, z: 0.9 }},
       { src: '/static/assets/targets/aire_acondicionado.mind', model: '/static/assets/models/snowflake/scene.gltf', scale: { x: 0.01, y: 0.01, z: 0.01 }},
       { src: '/static/assets/targets/centro_investigacion.mind', model: '/static/assets/models/microscope/scene.gltf', scale: { x: 0.1, y: 0.1, z: 0.1 }},
-      { src: '/static/assets/targets/biblioteca_fc', model: '/static/assets/models/book/scene.gltf', scale: { x: 0.1, y: 0.1, z: 0.1 }},
-      { src: '/static/assets/targets/ieee', model: '/static/assets/models/commodore/scene.gltf', scale: { x: 0.1, y: 0.1, z: 0.1 }}
+      { src: '/static/assets/targets/biblioteca_fc.mind', model: '/static/assets/models/book/scene.gltf', scale: { x: 0.03, y: 0.03, z: 0.03 }},
+      { src: '/static/assets/targets/ieee.mind', model: '/static/assets/models/commodore/scene.gltf', scale: { x: 0.1, y: 0.1, z: 0.1 }},
+      { src: '/static/assets/targets/hostigamiento.mind', model: '/static/assets/models/stop_signal/scene.gltf', scale: { x: 0.1, y: 0.1, z: 0.1 }},
+      { src: '/static/assets/targets/basura.mind', model: '/static/assets/models/reciclar/scene.gltf', scale: { x: 0.1, y: 0.1, z: 0.1 }}
+
 
     ];
 

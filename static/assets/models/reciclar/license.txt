@@ -1,0 +1,11 @@
+Model Information:
+* title:	Animated Recycle Arrows
+* source:	https://sketchfab.com/3d-models/animated-recycle-arrows-73b97a81c4ba46dd8ee2880fd62acafc
+* author:	Leo_Aguiar (https://sketchfab.com/Leo_Aguiar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Animated Recycle Arrows" (https://sketchfab.com/3d-models/animated-recycle-arrows-73b97a81c4ba46dd8ee2880fd62acafc) by Leo_Aguiar (https://sketchfab.com/Leo_Aguiar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
